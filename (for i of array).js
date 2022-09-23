@@ -1,4 +1,4 @@
-var romanToInt = function(s) {
+let romanToInt = function(s) {
     const MAP = {
         I: 1,
         V: 5,
